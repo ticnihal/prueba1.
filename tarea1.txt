@@ -1,0 +1,9 @@
+<!DOCTYPE HTML>
+<html>
+	<head>
+	<title>tarea 2 git</title>
+	<head>
+	<body>
+		<p>Esta es la primera tarea del tercer trimestre</p>
+	</body>
+</html>
